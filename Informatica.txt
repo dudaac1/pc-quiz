@@ -1,0 +1,60 @@
+O sistema operacional UNIX comecou a ser trabalhado em 1960, quando esse desenvolvimento chegou a algum resultado?
+a) 1969
+b) 1970
+c) 1971
+d) 1972
+a
+Por quem foi criado o ENIAC, primeiro computador eletronico?
+a) John Eckert e John Mauchly
+b) William Higinbotham
+c) Tim Berners-Lee
+d) Claude Elwood Shannon
+a
+A evolucao dos computadores se baseia em quais principais pontos?
+a) Memoria e facilidade de uso
+b) Processamento e armazenamento
+c) Interatividade e rapidez
+d) Memoria RAM e processamento
+b
+A unidade mais simples de armazenamento de informacao em um computador e:
+a) Byte
+b) Binario
+c) Bit
+d) RAM
+c
+Como e chamado o dispositivo utilizado para resfriar um computador?
+a) Dissipador
+b) Ventoinha
+c) Placa-mae
+d) Cooler
+d
+Sobre dispositivos de entrada e saida de dados, qual opcao possui apenas equipamentos de saida?
+a) Impressora e scanner
+b) Monitor e fones de ouvido
+c) Mouse e teclado
+d) Monitor touchscreen e caixas de som
+b
+Quem escreveu o primeiro programa de computador?
+a) Ada Lovelace
+b) Charles Babbage
+c) Herman Hollerith
+d) Alan Turing
+a
+Qual foi o primeiro sistema operacional de proposito geral do mundo?
+a) MS-DOS
+b) Unix
+c) Windows 
+d) CTSS
+d
+Qual o nome do computador que venceu o campeao mundial de xadrez Garry Kasparov em 1996?
+a) Active Link
+b) Colossus
+c) Deep Blue
+d) Smart X
+c
+Na falta de qual destes componentes voce nao consegue utilizar um computador?
+a) Mouse
+b) Teclado
+c) Processador
+d) Leitor de CD ou DVD
+c
